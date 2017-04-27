@@ -1,0 +1,4 @@
+OrderedDictionary {
+	'\/Counter-Core.package' : #SquotCypressCodeSerializer,
+	'\/Counter-Tests.package' : #SquotCypressCodeSerializer
+}
